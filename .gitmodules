@@ -1,0 +1,3 @@
+[submodule "robofriendsv2"]
+	path = robofriendsv2
+	url = https://github.com/wilfred05777/robofriends.git
