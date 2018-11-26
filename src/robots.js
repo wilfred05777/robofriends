@@ -58,6 +58,18 @@ export const robots = [
       name: 'Clementina DuBuque',
       username: 'Moriah.Stanton',
       email: 'Rey.Padberg@karina.biz'
+    },
+    {
+      id: 11,
+      name: 'Rowena Maxine Bancairen',
+      username: 'RowenaB',
+      email: 'rowena@bancairen.com'
+    },
+    {
+      id: 12,
+      name: 'Wilfred Erdo A. Bancairen',
+      username: 'Maxime_Nienow',
+      email: 'wilfred@bancairen.com'
     }
   ];
   
